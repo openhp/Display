@@ -59,7 +59,35 @@ gonzho АТ web.de (c) 2018-2021<br>
 | Part | Quantity |
 | ------------- | ------------- |
 | **1206 Resistors:**	||
-| 100K	| 2	|
+| 10K	9
+| 1K	4
+| 100K	4
+| 120	2
+| 100	2
+| Caps 1206	
+| 10uF 16V	4
+| 1uF 16V	1
+| 0.01uF	4
+| 10uF	6
+| 0.1uF	9
+| KF124 terminals	
+| KF124-3.81-3P	2
+| KF124-3.81-2P	1
+| Others	
+| DS3231M+TRL (SOIC-16)	1
+| KLS7-TS6601-13.0-180 (13mm tact button)	3	
+| ADM2587EBRWZ (SOIC-20)	2
+| LM7805 (TO-220)	1
+| MMBT2222A (SOT-23-3)	1
+| 2.54_pins_x40_female	1
+| 2.54_pins_x4	1
+| BUZZER-R9.0-2P-4.0PITCH	1
+| 1N4148W (SOD-123)	1
+| 0.22F -11.2X6.5 (supercap)	1
+| 10nF HV-9.0*3.0	2
+| ARDUINO PRO MINI	1
+| 1602 display with i2c	1
+| 1602 Plastic case 	1
 
 ## Author
 <br>
