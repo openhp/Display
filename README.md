@@ -49,6 +49,7 @@ Second string: "Ts1": water tank temperature (or Thi if "warm floor" scheme). An
 - Run: heat pump is powered on,
 - Stop: heat pump is in power-saving mode,
 - Chkg: heat pump is checking target temperature (then it will go into power save mode or switched on, if temperature is lower than setpoint)
+
 Main screen:
 ![main view](./m_display_main.jpg)<br>
 Press the "Left" and "Right" buttons together to enter the time configuration mode. <br>
