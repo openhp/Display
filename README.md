@@ -44,12 +44,17 @@ Wiring is very simple: <br>
 
 ## Usage
 After powering on, you will see the following main screen:<br>
- ![main view](./m_display_main.jpg)<br>
+Here you'll see current time, <sub>"d:"</sub> Day setpoint temperature, <sub>"n:"</sub> Night setpoint temperature.<br>
+Second string: "Ts1": water tank temperature (or Thi if "warm floor" scheme). And the last value is a current state, one of the following
+- Run: heat pump is powered on,
+- Stop: heat pump is in power-saving mode,
+- Chkg: heat pump is checking target temperature (then it will go into power save mode or switched on, if temperature is lower than setpoint)
+![main view](./m_display_main.jpg)<br>
 Press the "Left" and "Right" buttons together to enter the time configuration mode. <br> <br>
 Now you can set the time. The "Middle" button switches to the next option <br> <br>
- ![time configuration view](./m_display_timeconf.jpg)<br>
-To set "day" or "night" temperature press "Middle" button. Then use "left" and "right" buttons.
- ![day/night temperature configuration view](./m_display_t_conf.jpg)<br>
+![time configuration view](./m_display_timeconf.jpg)<br>
+To set "day" or "night" temperature press "Middle" button. Then use "left" and "right" buttons to change setpoint value.
+![day/night temperature configuration view](./m_display_t_conf.jpg)<br>
 
 ## License
 GPLv3. <br>
