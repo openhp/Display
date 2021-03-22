@@ -1,4 +1,4 @@
-### Valden: Display v v1.x
+### Valden: Display v1.x
 <b>  This device allows you to conrol the [Valden Heat Pump](https://github.com/openhp/HeatPumpController/) via remote display. Display can be used with a wire up to few hundred meters long.</b>
 
 ## Specs
@@ -7,7 +7,7 @@
 - day/night temperature set,
 - LCD 16x02,
 - RS485 connection to heat pump,
-- secondary RS485 connection to external systems integration,
+- secondary RS485 connection to external systems integration ([example here](https://github.com/openhp/HP-integration-example/),
 - JSON,
 - MODBUS.
 
