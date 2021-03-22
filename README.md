@@ -44,7 +44,7 @@ Wiring is very simple: <br>
 
 ## Usage
 After powering on, you will see the following main screen:<br>
-Here you'll see current time, <sub>"d:"</sub> Day setpoint temperature, <sub>"n:"</sub> Night setpoint temperature.<br>
+Here you'll see current time, "d:" Day setpoint temperature,"n:" Night setpoint temperature.<br>
 Second string: "Ts1": water tank temperature (or Thi if "warm floor" scheme). And the last value is a current state, one of the following
 - Run: heat pump is powered on,
 - Stop: heat pump is in power-saving mode,
