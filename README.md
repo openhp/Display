@@ -55,7 +55,7 @@ Main screen:<br>
 Press the "Left" and "Right" buttons together to enter the time configuration mode. <br>
 Now you can set the time. The "Middle" button switches to the next option.<br>
 ![time configuration view](./m_display_timeconf.jpg)<br>
-To set "day" or "night" temperature press "Middle" button. Then use "left" and "right" buttons to change setpoint value.<br>
+To set "day" or "night" temperature return to the main screen and press "Middle" button. Then use "left" and "right" buttons to change setpoint value.<br>
 ![day/night temperature configuration view](./m_display_t_conf.jpg)<br>
 
 ## License
