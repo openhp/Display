@@ -51,8 +51,8 @@ Second string: "Ts1": water tank temperature (or Thi if "warm floor" scheme). An
 - Chkg: heat pump is checking target temperature (then it will go into power save mode or switched on, if temperature is lower than setpoint)
 Main screen:
 ![main view](./m_display_main.jpg)<br>
-Press the "Left" and "Right" buttons together to enter the time configuration mode. <br> <br>
-Now you can set the time. The "Middle" button switches to the next option <br> <br>
+Press the "Left" and "Right" buttons together to enter the time configuration mode. <br>
+Now you can set the time. The "Middle" button switches to the next option.
 ![time configuration view](./m_display_timeconf.jpg)<br>
 To set "day" or "night" temperature press "Middle" button. Then use "left" and "right" buttons to change setpoint value.
 ![day/night temperature configuration view](./m_display_t_conf.jpg)<br>
