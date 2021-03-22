@@ -1,24 +1,24 @@
-### Valden: Display v1.x
+### Valden: Remote Display v1.x
 <b>  This device allows you to conrol the [Valden Heat Pump](https://github.com/openhp/HeatPumpController/) via remote display. Display can be used with a wire up to few hundred meters long.</b>
 
 ## Specs
 - 12V 0.5A DC power supply, 
 - build-in RTC,
-- day/night temperature set,
+- Day/Night temperature set,
 - LCD 16x02,
 - RS485 connection to heat pump,
-- secondary RS485 connection to external systems integration ([example here](https://github.com/openhp/HP-integration-example/),
+- secondary RS485 connection to external systems integration ( [example here](https://github.com/openhp/HP-integration-example/) ),
 - JSON,
 - MODBUS.
 
 
 ## Changelog and history
 - 2019-2020: prototyping, installations, development, tests, revisions, redisigns,
-- Dec 2020: Diagnostic display software fork created,
+- Dec 2020: [Service display](https://github.com/openhp/ServiceDisplay/) software fork created,
 - Mar 2021: Documentation and release stage.
 - 
 ## Get your own copy and PCB assembly
-- download the PCB gerber file, [Valden_HeatPumpController_Gerber](./Valden_Display_Gerber.zip)
+- download the PCB gerber file, [Valden RemoteDisplay Gerber](./Valden_RemoteDisplay_Gerber.zip)
 - find in Google, [where to order a printed circuit board](https://www.google.com/search?q=order+pcb+gerber) (keywords: order pcb gerber), place an order,
 - order electronic components, see BOM (Bill Of Materials) appendix below,
 - solder electronic components. {- assembly instructions here-}
@@ -46,3 +46,21 @@ Wiring is very simple: <br>
  ![main view](./m_display_main.jpg)<br>
  ![time configuration view](./m_display_timeconf.jpg)<br>
  ![day/night temperature configuration view](./m_display_t_conf.jpg)<br>
+
+## License
+GPLv3. <br>
+This product is distributed in the hope that it will be useful,	but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.<br>
+
+## Author
+<br>
+gonzho АТ web.de (c) 2018-2021<br>
+
+## Appendix D: bill of materials
+| Part | Quantity |
+| ------------- | ------------- |
+| **1206 Resistors:**	||
+| 100K	| 2	|
+
+## Author
+<br>
+gonzho АТ web.de (c) 2018-2021<br>
