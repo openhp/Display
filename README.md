@@ -32,19 +32,23 @@ The process is the same as for others Arduinos:
 - press the "Upload" button in the interface and "Reset" on the Arduino.
 
 For arduinos with old bootloader you need to update it. (Tools-> Burn Bootloader).<br>
-For successful compilation, you must have "SoftwareSerial", "OneWire" and "DallasTemperature" installed (see Tools -> Manage Libraries).<br>
-Note that software serial must be downloaded from Display guthub repository and located at same directory as main source. Library is slightly modidied.<br>
-Configuration not needed, display will work as at pictures below after connecting to heat pump.<br>
+For successful compilation, you must have "DS3231", "LiquidCrystal" and "SoftwareSerial" installed (see Tools -> Manage Libraries).<br>
+Note that software serial must be downloaded from the "Valden Remote Display" github repository and located at the same directory as "Remote Display" source. Library is slightly modified.<br>
+The configuration is not required, the display will work as in the pictures below after connecting to the heat pump. <br> <br>
 
 ## Wiring and installation
 Wiring is very simple: <br>
-- RS485 through a wire of the desired length to the remote control display (if used, another control method is a local computer with a USB-UART converter, you may like it for the first time). Note that A is connected to A in the display, B to B and GND to GND,
-- you can power the display from a 12V controller, the board has 12V and GND secondary pins,
+- RS485 through a wire of the desired length connected to the Heat Pump Controller. Note that A is connected to A, B to B and GND to GND?
+- you can get a 12V from the Heat Pump Controller, or from another source.
+{- wiring photo here-}
 
 ## Usage
-
+After powering on, you will see the following main screen:<br>
  ![main view](./m_display_main.jpg)<br>
+Press the "Left" and "Right" buttons together to enter the time configuration mode. <br> <br>
+Now you can set the time. The "Middle" button switches to the next option <br> <br>
  ![time configuration view](./m_display_timeconf.jpg)<br>
+To set "day" or "night" temperature press "Middle" button. Then use "left" and "right" buttons.
  ![day/night temperature configuration view](./m_display_t_conf.jpg)<br>
 
 ## License
