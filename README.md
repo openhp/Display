@@ -39,7 +39,7 @@ The configuration is not required, the display will work as in the pictures belo
 ## Wiring and installation
 Wiring is very simple: <br>
 - connect "internal" RS485 terminal through a wire of the desired length to the [Heat Pump Controller](https://github.com/openhp/HeatPumpController/). Note that A is connected to A, B to B and GND to GND,
-- connect "external" RS485 terminal to your server ([communication example here](https://github.com/openhp/HP-integration-example)).
+- if used: connect "external" RS485 terminal to your computer, Raspberry, or server ([communication example here](https://github.com/openhp/HP-integration-example)).
 - connect 12V, you can get it from your [Heat Pump Controller](https://github.com/openhp/HeatPumpController/), or from another 12V power supply unit.
 {- wiring photo here-}
 
