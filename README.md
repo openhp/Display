@@ -6,7 +6,7 @@
 - build-in RTC,
 - Day/Night temperature set,
 - LCD 16x02,
-- RS485 connection to heat pump,
+- RS485 connection to the Heat Pump,
 - secondary RS485 connection to external systems integration ( [example here](https://github.com/openhp/HP-integration-example/) ),
 - JSON,
 - MODBUS.
