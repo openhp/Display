@@ -1,5 +1,5 @@
 ### Valden: Remote Display v1.x
-<b>  This device allows you to conrol the [Valden Heat Pump](https://github.com/openhp/HeatPumpController/) via remote display. Display can be used with a wire up to few hundred meters long.</b>
+<b>  This device allows you to conrol the [Valden Heat Pump](https://github.com/openhp/HeatPumpController/) via remote display. Display can be used with a wire up to few hundred meters long.</b> As well as the controller this display is also DIY non-commercial product with opened gerber and source code.
 
 ## Specs
 - 12V 0.5A DC power supply, 
