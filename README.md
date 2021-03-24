@@ -44,6 +44,8 @@ Wiring is very simple: <br>
 {- wiring photo here-}
 
 ## Usage
+End user do not wat to know much about refrigerants, evaporation, cycles and so on, so this display designed as simple as possible.<br><br>
+
 After powering on, you will see the following main screen:<br>
 Here you'll see current time, "d:" Day setpoint temperature,"n:" Night setpoint temperature.<br>
 Second string: "Ts1": water tank temperature (or Thi if "warm floor" scheme). And the last value is a current state, one of the following
