@@ -14,7 +14,7 @@
 - 2019-2020: prototyping, installations, development, tests, revisions, redesigns,
 - Dec 2020: [Service display](https://github.com/openhp/ServiceDisplay/) software fork created,
 - Mar 2021: Documentation and release stage.
--
+
 ## Get your own copy of PCB and board assembly
 - download PCB Gerber file or get your own copy {-link here-}
 - order electronic components, see BOM (Bill Of Materials) appendix below,
