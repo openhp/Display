@@ -21,17 +21,17 @@
 - solder electronic components. {- assembly instructions here-}
 
 ## Firmware upload
-The process is the same as for others Arduinos:
+This process is same as for other Arduinos:
 - connect USB-> UART converter,
 - start Arduino IDE,
-- open the firmware file,
+- open the firmware {-link here-} file,
 - select board and MCU in the Tools menu (hint: we are using "mini" board with 328p MCU),
 - press the "Upload" button in the interface and "Reset" on the Arduino.
 
-For arduinos with old bootloader you need to update it. (Tools-> Burn Bootloader).<br>
-For successful compilation, you must have "DS3231", "LiquidCrystal" and "SoftwareSerial" installed (see Tools -> Manage Libraries).<br>
-Note that software serial must be downloaded from the "Valden Remote Display" github repository and located at the same directory as "Remote Display" source. Library is slightly modified.<br>
-The configuration is not required, the display will work as in the pictures below after connecting to the heat pump. <br> <br>
+For arduinos with an old bootloader you need to update it. (Tools-> Burn Bootloader).<br>
+For successful compilation, you must have "DS3231", "LiquidCrystal" and "SoftwareSerial" libraries installed (see Tools -> Manage Libraries).<br>
+Note that SoftwareSerial library must be downloaded from the "Valden Remote Display" GitHub repository and located at the same directory as "Remote Display" source. This library is slightly modified.<br>
+A manual configuration is not required, your display will work as in the pictures below after connecting to the heat pump.<br><br>
 
 ## Wiring and installation
 Wiring is very simple: <br>
