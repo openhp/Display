@@ -15,13 +15,13 @@
 - Dec 2020: [Service display](https://github.com/openhp/ServiceDisplay/) software fork created,
 - Mar 2021: Documentation and release stage.
 
-## Get your own copy of PCB and board assembly
+## Get your own PCB copy. Assembly.
 - download PCB Gerber file or get your own copy {-link here-}
 - order electronic components, see BOM (Bill Of Materials) appendix below,
 - solder electronic components. {- assembly instructions here-}
 
 ## Firmware upload
-This process is same as for other Arduinos:
+This process is the same as for other Arduinos:
 - connect USB-> UART converter,
 - start Arduino IDE,
 - open the firmware {-link here-} file,
