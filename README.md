@@ -33,12 +33,14 @@ For successful compilation, you must have "DS3231", "LiquidCrystal" and "Softwar
 Note that SoftwareSerial library must be downloaded from the "Valden Remote Display" GitHub repository and located at the same directory as "Remote Display" source. This library is slightly modified.<br>
 A manual configuration is not required, your display will work as in the pictures below after connecting to the heat pump.<br><br>
 
+
 ## Wiring and installation
-Wiring is very simple: <br>
+Wiring is very simple:<br>
 - connect "internal" RS485 terminal through a wire of the desired length to the [Heat Pump Controller](https://github.com/openhp/HeatPumpController/). Note that A is connected to A, B to B and GND to GND,
-- if used: connect "external" RS485 terminal to your computer, Raspberry, or server ([communication example here](https://github.com/openhp/HP-integration-example)).
+- if used, connect "external" RS485 terminal to your computer, Raspberry, or server ([communication example here](https://github.com/openhp/HP-integration-example)).
 - connect 12V, you can get it from your [Heat Pump Controller](https://github.com/openhp/HeatPumpController/), or from another 12V power supply unit.
-{- wiring photo here-}
+
+{- wiring photo here-}<br>
 
 ## Usage
 End user do not wat to know much about refrigerants, evaporation, cycles and so on, so this display designed as simple as possible.<br><br>
