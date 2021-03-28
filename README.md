@@ -1,24 +1,22 @@
 ### Valden: Remote Display v1.x
-<b>  This device allows you to conrol the [Valden Heat Pump](https://github.com/openhp/HeatPumpController/) via remote display. Display can be used with a wire up to few hundred meters long.</b> As well as the controller this this display is also open product with available gerber and source code.<br><br>
+<b>  This device allows you to control the [Valden Heat Pump](https://github.com/openhp/HeatPumpController/) via remote display. Display can be used with a signal cable up to a few hundred meters long.</b> As well as the controller this display is an also open product with available gerber and source code.<br><br>
 ## Specs
-- 12V 0.5A DC power supply, 
+- 12V 0.5A DC power supply,
 - build-in RTC,
 - Day/Night temperature set,
 - LCD 16x02,
 - RS485 connection to the Heat Pump,
-- secondary RS485 connection to external systems integration ( [example here](https://github.com/openhp/HP-integration-example/) ),
+- secondary RS485 connection to integrate with external systems ( [example here](https://github.com/openhp/HP-integration-example/) ),
 - JSON,
 - MODBUS.
 
-
 ## Changelog and history
-- 2019-2020: prototyping, installations, development, tests, revisions, redisigns,
+- 2019-2020: prototyping, installations, development, tests, revisions, redesigns,
 - Dec 2020: [Service display](https://github.com/openhp/ServiceDisplay/) software fork created,
 - Mar 2021: Documentation and release stage.
-- 
-## Get your own copy and PCB assembly
-- download the PCB gerber file, [Valden RemoteDisplay Gerber](./Valden_RemoteDisplay_Gerber.zip)
-- find in Google, [where to order a printed circuit board](https://www.google.com/search?q=order+pcb+gerber) (keywords: order pcb gerber), place an order,
+-
+## Get your own copy of PCB and board assembly
+- download PCB Gerber file or get your own copy {-link here-}
 - order electronic components, see BOM (Bill Of Materials) appendix below,
 - solder electronic components. {- assembly instructions here-}
 
