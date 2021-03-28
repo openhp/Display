@@ -82,12 +82,12 @@ gonzho АТ web.de (c) 2018-2021<br>
 | 1K       | 4 |
 | 10K      | 9 |
 | 100K     | 4 |
-| **1206 Caps**    ||
+| **1206 Caps:**    ||
 | 0.01uF      | 4 |
 | 0.1uF       | 9 |
 | 1uF         | 1 |
 | 10uF        | 10 |
-| **KF124 terminals** ||
+| **KF124 terminals:** ||
 | KF124-3.81-3P     | 2 |
 | KF124-3.81-2P     | 1 |
 | **SOP(SOIC) ICs:**    ||
