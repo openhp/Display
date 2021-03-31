@@ -28,9 +28,11 @@ This process is the same as for other Arduinos:
 - select board and MCU in the Tools menu (hint: we are using "mini" board with 328p MCU),
 - press the "Upload" button in the interface and "Reset" on the Arduino.
 
-For arduinos with an old bootloader you need to update it. (Tools-> Burn Bootloader).<br>
+For arduinos with an old bootloader you need to update it. (Tools -> Burn Bootloader).<br>
 For successful compilation, you must have "DS3231", "LiquidCrystal" and "SoftwareSerial" libraries installed (see Tools -> Manage Libraries).<br>
 Note that SoftwareSerial library must be downloaded from the "Valden Remote Display" GitHub repository and located at the same directory as "Remote Display" source. This library is slightly modified.<br>
+If there is no text on screen: use i2c scanner sketch (File -> Examples -> Wire -> i2c_scanner)  to find 1602 address, typical 0x3f, 0x27. Then change "i2c_DisplayAddr" in this firmware to yours.<br>
+If address Ok: tune 1602 contrast (blue variable resistor).<br>
 A manual configuration is not required, your display will work as in the pictures below after connecting to the heat pump.<br><br>
 
 
