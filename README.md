@@ -48,11 +48,15 @@ An end user does not want to know much about refrigerants, evaporation, cycles a
 After powering on, you will see the following main screen:<br>
 ![main view](./m_display_main.jpg)<br>
 
-Here you'll see **current time**, **"d:"** Day setpoint temperature,**"n:"** Night setpoint temperature.<br>
+Here you'll see:
+- **current time**,
+- **"d:"** Day setpoint temperature,
+- **"n:"** Night setpoint temperature.
 
-Second string:
+The second string is:
 - **"W:"** Water (tank) temperature (Ts1 sensor),
 - **"F:"** Floor, if a "warm floor" scheme used (Thi sensor).
+
 And the last value is a current state, one of the followings
 - **Run**: the heat pump is powered on,
 - **Stop**: heat pump is in power-saving mode,
