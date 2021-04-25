@@ -11,8 +11,9 @@
 - MODBUS.
 
 ## Changelog and history
-- 2019-2020: prototyping, installations, development, tests, revisions, redesigns,
+- 2019-2020: prototyping, development, revisions, redesigns,
 - Dec 2020: [Service display](https://github.com/openhp/ServiceDisplay/) software fork created,
+- 2021: development, testing, 
 - Mar 2021: Documentation and release stage.
 
 ## Get your own PCB copy. Assembly.
