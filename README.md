@@ -36,13 +36,12 @@ Note that SoftwareSerial library must be downloaded from the "Valden Remote Disp
 If there is no text on screen: use i2c scanner sketch (File -> Examples -> Wire -> i2c_scanner)  to find 1602 address, typical 0x3f, 0x27. Then change "i2c_DisplayAddr" in this firmware to yours.<br> If address Ok: tune 1602 contrast (blue variable resistor).<br>
 A manual configuration is not required, your display will work as in the pictures below after connecting to the heat pump.<br><br>
 
-
 ## Wiring and installation
 Wiring is very simple:<br>
 - connect "internal" RS485 terminal through a wire of the desired length to the [Heat Pump Controller](https://github.com/openhp/HeatPumpController/). Note that A is connected to A, B to B and GND to GND,
-- if used, connect "external" RS485 terminal to your computer, Raspberry, or server ([communication example here](https://github.com/openhp/HP-integration-example)).
 - connect 12V, you can get it from your [Heat Pump Controller](https://github.com/openhp/HeatPumpController/), or from another 12V power supply unit.<br>
-<img src="./m_d_wiring.jpg" width="500"><br><br>
+<img src="./m_d_wiring.jpg" width="500"><br>
+- if used, connect "external" RS485 terminal to your computer, Raspberry, or server ([communication example here](https://github.com/openhp/HP-integration-example)).<br><br>
 
 ## Usage
 An end user does not want to know much about refrigerants, evaporation, cycles and so on, so this display designed as simple as possible.<br><br>
