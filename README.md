@@ -19,7 +19,7 @@
 ## Get your own PCB copy. Assembly.
 - download PCB Gerber file [here](./Valden_RemoteDisplay_Gerber.zip) or get your own copy {-link there-} ,
 - order electronic components, see BOM (Bill Of Materials) appendix below,
-- solder electronic components. {- assembly instructions here-}<br>
+- solder electronic components, [assembly instructions here](https://github.com/openhp/Display/wiki/assembly)<br>
 <img src="./m_d_assembly_final_3.jpg" width="500"><br><br>
 
 ## Firmware upload
