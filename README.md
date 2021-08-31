@@ -26,7 +26,7 @@
 This process is the same as for other Arduinos:
 - connect USB-> UART converter,
 - start Arduino IDE,
-- open the firmware {-link here-} file,
+- open the [firmware file](./Valden_Display.ino),
 - select board and MCU in the Tools menu (hint: we are using "mini" board with 328p MCU),
 - press the "Upload" button in the interface and "Reset" on the Arduino.
 
