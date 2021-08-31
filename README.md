@@ -20,7 +20,7 @@
 - download PCB Gerber file or get your own copy {-link here-}
 - order electronic components, see BOM (Bill Of Materials) appendix below,
 - solder electronic components. {- assembly instructions here-}<br>
-<img src="./m_d_assembly_final_3.jpg" width="800"><br><br>
+<img src="./m_d_assembly_final_3.jpg" width="500"><br><br>
 
 ## Firmware upload
 This process is the same as for other Arduinos:
@@ -42,7 +42,7 @@ Wiring is very simple:<br>
 - connect "internal" RS485 terminal through a wire of the desired length to the [Heat Pump Controller](https://github.com/openhp/HeatPumpController/). Note that A is connected to A, B to B and GND to GND,
 - if used, connect "external" RS485 terminal to your computer, Raspberry, or server ([communication example here](https://github.com/openhp/HP-integration-example)).
 - connect 12V, you can get it from your [Heat Pump Controller](https://github.com/openhp/HeatPumpController/), or from another 12V power supply unit.<br>
-<img src="./m_d_wiring.jpg" width="800"><br><br>
+<img src="./m_d_wiring.jpg" width="500"><br><br>
 
 ## Usage
 An end user does not want to know much about refrigerants, evaporation, cycles and so on, so this display designed as simple as possible.<br><br>
