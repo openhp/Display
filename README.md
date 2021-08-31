@@ -59,9 +59,9 @@ The second string is:
 - **"F:"** Floor, if a "warm floor" scheme used (Thi sensor).
 
 And the last value is a current state, one of the followings
-- **Run**: the heat pump is powered on,
-- **Stop**: heat pump is in power-saving mode,
-- **Chkg**: the heat pump is checking target temperature (then it will go into power save mode or switched on, if temperature is lower than setpoint)
+- **"Run"** the heat pump is powered on,
+- **"Stop"** heat pump is in power-saving mode,
+- **"Chkg"** the heat pump is checking target temperature (then it will go into power save mode or switched on, if temperature is lower than setpoint)
 
 <br><br>
 Press the "Left" and "Right" buttons together to enter the time configuration mode.<br>
