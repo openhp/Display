@@ -14,7 +14,7 @@
 - 2019-2021: prototyping, PCB development and redesigns; background firmware development,
 - Dec 2020: [Service display](https://github.com/openhp/ServiceDisplay/) software fork created,
 - Mar 2021: documentation,
-- Aug 2021: active testing and public access.
+- Aug 2021: public access and active testing stages.
 
 ## Get your own PCB copy. Assembly.
 - download PCB Gerber file or get your own copy {-link here-}
