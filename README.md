@@ -17,7 +17,7 @@
 - Aug 2021: public access and active testing stages.
 
 ## Get your own PCB copy. Assembly.
-- download PCB Gerber file [here](./Valden_RemoteDisplay_Gerber.zip) or get your own copy {-link there-} ,
+- download PCB Gerber file [here](./Valden_RemoteDisplay_Gerber.zip) or get your own copy [there](https://www.pcbway.com/project/shareproject/Valden__Remote_Heat_Pump_Display.html),
 - order electronic components, see BOM (Bill Of Materials) appendix below,
 - solder electronic components, [assembly instructions here](https://github.com/openhp/Display/wiki/assembly)<br>
 <img src="./m_d_assembly_final_3.jpg" width="500"><br><br>
